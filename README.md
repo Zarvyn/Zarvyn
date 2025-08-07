@@ -78,7 +78,7 @@ Mevcut ikonlar: kali, python, bash, docker, linux, powershell, wireshark, metasp
 🐍 Katkı Grafiğim
 <p align="center">
 <!-- Bu animasyonun çalışması için GitHub Actions kurmanız gerekiyor.
-Aşağıdaki sonuç bölümündeki açıklamaları okuyun. -->
+Reponuzda .github/workflows/main.yml dosyası oluşturup Platane/snk action'ını kurun. -->
 <img src="https://www.google.com/search?q=https://github.com/Zarvyn/Zarvyn/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 

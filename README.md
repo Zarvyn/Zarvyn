@@ -1,115 +1,54 @@
-<!--
-|| || || Selam! Bu README dosyasını Zarvyn için Gemini hazırladı. || || Değiştirmek istediğiniz alanları aşağıdaki yorum satırlarını || || takip ederek kolayca düzenleyebilirsiniz. || || ||
--->
 
-<!-- HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=Zarvyn)](https://git.io/typing-svg)
 
-<div align="center">
-<!-- Başlık Animasyonu -->
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="150"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=GITHUB.COM%2FZarvyn)](https://git.io/typing-svg)
 
-<!-- Selamlama -->
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<h1>Selam, ben Zarvyn <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- Tanıtım -->
+> ### ⚙️ Mastered languages: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;php,;html-css,;c#;perl,;c++,;next.js,;go,;react.js,;z-sharp;batched,;vue.js,;sqlite3,;sql,;ruby;.net;shell)](https://git.io/typing-svg)
 
-<p>
-<strong>Dijital kalelerin savunucusu, kodların ve zafiyetlerin avcısı bir Siber Güvenlik Meraklısıyım.</strong>
-</p>
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<!-- Profil Ziyaretçi Sayacı -->
 
-<p>
-<img src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DZarvyn.Zarvyn%26left_text%3DProfil%2520Ziyaret%C3%A7isi" alt="profile visitors"/>
-</p>
-</div>
+> ### 👉 Skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
 
-<br>
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<!-- HAKKIMDA BÖLÜMÜ -->
+> ### 👋 Already worked for: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ebae34&duration=50&lines=FunBot;ChillRadio;Strip;Amazon;Microsoft;Discord;Nox;VSC;Opera;Logitech;Axe;Apple;Nike;EEB;Spotify;Engine;Bluestack;Brawlstars;Critical+ops;Lacoste;Intel;Google;W3;Roblox;SublimeText;Telegram;Instagram;Spotify;deuxdollars;5$;mirlou;soundcloud;netflix;eris;Instagram;Twitter;TikTok;Nvidia;core;linux;wallpaper+engine;france+net+secu)](https://git.io/typing-svg)
 
-👨‍💻 Hakkımda
-<p>Sistemlerin ve ağların derinliklerine inerek onları daha güvenli hale getirmeye adanmış biriyim. Amacım, proaktif güvenlik önlemleriyle siber tehditleri bir adım önde durdurmak.</p>
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-🛡️ Odak Alanlarım: Sızma Testleri (Pentesting), Ağ Güvenliği, Malware Analizi ve Güvenli Kod Geliştirme.
+> ### 🆕 Updates 
+ 
+```PY 
+ [+] Last update: 09/10/2023
+ [+] author: Zarvyn
+ [+] owner: Zarvyndev 
+ ```
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > ### 🎈 Socials 
+ 
+ | 🐻 [Team](https://byte-breaker.com) | 🐴 [Portfolio](https://Zarvyn.byte-breaker.com) | 🐦 [Twitter](https://twitter.com/Zarvyn) |
+ 
+ ![DISCORD](https://discord.c99.nl/widget/theme-1/935959975698788392.png)
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vvxm4yy9aomu37lqtgiedyh4p&redirect=true)
 
-🌱 Şu An Öğrendiklerim: Bulut Güvenliği (AWS/Azure) ve Tersine Mühendislik.
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ 
+ > Made by Zarvyn dev - README.md v.2.3
+ 
+  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+  
 
-👯 İşbirliği: Açık kaynaklı güvenlik araçları ve CTF yarışmaları için her zaman yeni projelere açığım.
-
-📫 Bana Ulaşın: Aşağıdaki sosyal medya linklerini kullanabilirsiniz.
-
-⚡ Bir Gerçek: En sevdiğim kısayol Ctrl+C değil, bir shell'de root yetkisi almaktır.
-
-<!-- YETENEKLER BÖLÜMÜ -->
-
-🛠️ Yeteneklerim & Araçlarım
-<p align="center">
-<em>Siber güvenlik yolculuğumda sıkça kullandığım teknolojiler ve araçlar:</em>
-<br><br>
-<a href="https://skillicons.dev">
-<!-- Buradaki ikonları kendi yeteneklerinize göre değiştirebilirsiniz.
-i= parametresine virgülle ayırarak yeni ikonlar ekleyebilirsiniz.
-Mevcut ikonlar: kali, python, bash, docker, linux, powershell, wireshark, metasploit, nmap, burpsuite, owasp, git, github, aws, azure -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkali,python,bash,docker,linux,powershell,wireshark,metasploit,nmap,burpsuite,owasp,git,github,aws,azure%26perline%3D8" />
-</a>
-</p>
-
-<!-- GITHUB İSTATİSTİKLERİ BÖLÜMÜ -->
-
-📊 GitHub İstatistiklerim
-<p align="center">
-<!-- GitHub İstatistik Kartı -->
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DZarvyn%26show_icons%3Dtrue%26theme%3Dtokyonight%26icon_color%3D79ff97%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Zarvyn's GitHub Stats" />
-
-<!-- En Çok Kullanılan Diller Kartı -->
-
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DZarvyn%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" alt="Zarvyn's Top Languages" />
-</p>
-
-<p align="center">
-<!-- GitHub Başarı Kupaları -->
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DZarvyn%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies"/>
-</p>
-
-<!-- KATKI GRAFİĞİ (SNAKE) BÖLÜMÜ -->
-
-🐍 Katkı Grafiğim
-<p align="center">
-<!-- Bu animasyonun çalışması için GitHub Actions kurmanız gerekiyor.
-Reponuzda .github/workflows/main.yml dosyası oluşturup Platane/snk action'ını kurun. -->
-<img src="https://www.google.com/search?q=https://github.com/Zarvyn/Zarvyn/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-<!-- SOSYAL MEDYA BÖLÜMÜ -->
-
-🔗 Benimle Bağlantı Kurun
-<p align="center">
-<em>Sanal dünyada beni buralarda bulabilirsiniz:</em>
-<br><br>
-
-<!-- LinkedIn: [linkedin-kullanici-adiniz] kısmını kendi kullanıcı adınızla değiştirin -->
-
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[linkedin-kullanici-adiniz]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-
-<!-- Twitter: [twitter-kullanici-adiniz] kısmını kendi kullanıcı adınızla değiştirin -->
-
-<a href="https://twitter.com/[twitter-kullanici-adiniz]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
-</a>
-
-<!-- TryHackMe: [thm-kullanici-adiniz] kısmını kendi kullanıcı adınızla değiştirin -->
-
-<a href="https://www.google.com/search?q=https://tryhackme.com/p/[thm-kullanici-adiniz]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-88A12F%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" alt="TryHackMe"/>
-</a>
-
-<!-- Hack The Box: [htb-profil-id] kısmını kendi ID'nizle değiştirin -->
-
-<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/[htb-profil-id]" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack%2520The%2520Box-9fef00%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dblack" alt="Hack The Box"/>
-</a>
-</p>
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/Zarvyn/count.svg" />

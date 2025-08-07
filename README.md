@@ -1,18 +1,18 @@
 <!-- Siber Güvenlik Profili - Zarvyn -->
 <div align="center">
-  
-<!-- Animated Header -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22F768&width=550&height=60&lines=Zarvyn+%7C+Siber+Gu%CC%88venlik+Uzman%C4%B1;Red+Team+%26+Penetrasyon+Testi;CTF+%C3%87%C3%B6zu%CC%88cu%CC%88su%CC%88;Gizlilik+Savunucusu&center=true" alt="Animated Title" />
-</a>
 
-<!-- Visitor Counter -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Zarvyn&label=PROFİL%20ZİYARETÇİSİ&color=0ea5e9&style=for-the-badge" alt="Visitor Counter" />
-</p>
+  <!-- Animated Header -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22F768&width=550&height=60&lines=Zarvyn+%7C+Siber+Gu%CC%88venlik+Uzman%C4%B1;Red+Team+%26+Penetrasyon+Testi;CTF+%C3%87%C3%B6zu%CC%88cu%CC%88su%CC%88;Gizlilik+Savunucusu&center=true" alt="Animated Title" />
+  </a>
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Zarvyn/Zarvyn/main/assets/divider.gif" width="100%" height="10px" />
+  <!-- Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Zarvyn&label=PROFİL%20ZİYARETÇİSİ&color=0ea5e9&style=for-the-badge" alt="Visitor Counter" />
+  </p>
+
+  <!-- Animated Divider -->
+  <img src="https://raw.githubusercontent.com/Zarvyn/Zarvyn/main/assets/divider.gif" width="100%" height="10px" />
 
 </div>
 
@@ -20,33 +20,34 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      
-## 🛡️ Hakkımda
-Merhaba, ben **Zarvyn**! Siber güvenlik alanında tutkulu bir uzmanım. Özellikle:
 
-- 🔥 Red Team operasyonları ve penetrasyon testleri
-- 🧩 CTF yarışmaları ve zafiyet avcılığı
-- 🔍 Reverse Engineering & Malware Analizi
-- 🛡️ Ağ güvenliği ve savunma stratejileri
+      ## 🛡️ Hakkımda
+      Merhaba, ben **Zarvyn**! Siber güvenlik alanında tutkulu bir uzmanım. Özellikle:
 
-konularında uzmanlaşıyorum. Sürekli öğrenme ve yeni güvenlik açıkları keşfetme odaklı çalışıyorum.
+      - 🔥 Red Team operasyonları ve penetrasyon testleri
+      - 🧩 CTF yarışmaları ve zafiyet avcılığı
+      - 🔍 Reverse Engineering & Malware Analizi
+      - 🛡️ Ağ güvenliği ve savunma stratejileri
+
+      konularında uzmanlaşıyorum. Sürekli öğrenme ve yeni güvenlik açıkları keşfetme odaklı çalışıyorum.
 
     </td>
     <td valign="top" width="40%">
 
-## 🛠️ Teknik Yetenekler
+      ## 🛠️ Teknik Yetenekler
 
-<!-- Animated Tech Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,py,bash,git,docker,aws,azure,github,vscode,html,css,js" />
-</p>
+      <!-- Animated Tech Icons -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,py,bash,git,docker,aws,azure,github,vscode,html,css,js" />
+      </p>
 
-<!-- Progress Bars -->
-```text
-Pentesting         ██████████████████░░░░ 85% 
-Network Security   ██████████████░░░░░░░░ 70%
-Malware Analysis   █████████░░░░░░░░░░░░░ 45%
-Cryptography       █████████████░░░░░░░░░ 75%
+      <!-- Progress Bars -->
+      ```text
+      Pentesting         ██████████████████░░░░ 85% 
+      Network Security   ██████████████░░░░░░░░ 70%
+      Malware Analysis   █████████░░░░░░░░░░░░░ 45%
+      Cryptography       █████████████░░░░░░░░░ 75%
+      ```
 
     </td>
   </tr>
@@ -75,20 +76,20 @@ Cryptography       █████████████░░░░░░░�
 
 <!-- GitHub Stats -->
 <div align="center">
-  
-## 📊 GitHub Aktivitem
 
-<!-- GitHub Stats with Animation -->
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zarvyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Zarvyn+GitHub+İstatistikleri" alt="GitHub Stats" width="49%" />
-</a>
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarvyn&theme=dark&background=000000" alt="Streak Stats" width="49%" />
-</a>
-  
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarvyn&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Langs" width="50%" />
-</a>
+  ## 📊 GitHub Aktivitem
+
+  <!-- GitHub Stats with Animation -->
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zarvyn&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Zarvyn+GitHub+İstatistikleri" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zarvyn&theme=dark&background=000000" alt="Streak Stats" width="49%" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarvyn&layout=compact&theme=dark&langs_count=8&hide=html,css" alt="Top Langs" width="50%" />
+  </a>
 
 </div>
 
